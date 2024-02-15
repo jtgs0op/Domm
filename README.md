@@ -14,3 +14,6 @@ Extractor de Codigo html de paginas web (beta).
 
 
 - herramienta de uso gratis, ya queda tu decisión si le deseas cambiar cosas para hacerla más pontente.
+
+
+ - solo ejecuta el archivo (main.py) para ver las opciones
